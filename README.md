@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my Github! 👋
 
 <!--
 **Aguppesce/Aguppesce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/aguppesce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aguppesce&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguppesce&layout=compact&langs_count=7&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguppesce&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguppesce&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
    <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <a href = "mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:aguppesce@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    
   ![Snake animation](https://github.com/aguppesce/aguppesce/blob/output/github-contribution-grid-snake.svg)
