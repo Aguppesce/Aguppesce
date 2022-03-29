@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/aguppesce">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguppesce&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aguppesce&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguppesce&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
