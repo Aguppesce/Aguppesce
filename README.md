@@ -21,7 +21,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguppesce&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguppesce&layout=compact&langs_count=7&theme=darcula"/>
 </div>
-<div align="center"><br>  
+<div align="center"><br>
+  <h2>My Skills</h2>
   <img align="center" alt="aguppesce-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="aguppesce-SPRING" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="aguppesce-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
