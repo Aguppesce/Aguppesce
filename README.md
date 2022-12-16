@@ -41,6 +41,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  <a href="https://aguppesce.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=grey" target="_blank"></a>  
-  <a href="https://aguppesce.github.io/assets/files/CV-Agustin-Perez-Pesce.pdf" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%230077B5?style=for-the-badge&logoColor=success" target="_blank"></a>  
+  <!--<a href="https://aguppesce.github.io/assets/files/CV-Agustin-Perez-Pesce.pdf" target="_blank"><img src="https://img.shields.io/badge/-Curriculum-%230077B5?style=for-the-badge&logoColor=success" target="_blank"></a>-->
 </div>
   
