@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <div align="center">
   <a href="https://github.com/aguppesce">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguppesce&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="aguppesce-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   <img align="center" alt="aguppesce-JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
 </div>
-  
+  -->
   ##
  
 <div align="center">
