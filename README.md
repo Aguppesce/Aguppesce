@@ -1,6 +1,6 @@
-<!-- Encabezado principal -->
+<!-- Encabezado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Agustín+👋;Welcome+to+my+GitHub!;Backend+%26+Cloud+Enthusiast+☁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Agustín+👋;Welcome+to+my+GitHub+Profile!;Backend+%26+Cloud+Engineer+☁️;Hola!+Soy+Agustín+👋;Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Cloud+☁️" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,9 +10,9 @@
 <summary>🇬🇧 English</summary>
 
 ### 👨‍💻 About Me
-💡 I’m passionate about technology, automation, and backend development.  
-🚀 Currently focusing on **Cloud Infrastructure** (AWS, Terraform, Docker, K8s) and **Backend Development** (Java, Spring Boot, Python).  
-🎯 I enjoy learning about **DevOps practices**, **data analysis**, and improving my coding skills.  
+💡 Passionate about technology, automation, and backend development.  
+🚀 Currently focused on **Cloud Infrastructure** (AWS, Terraform, Docker, Kubernetes) and **Backend Development** (Java, Spring Boot, Python).  
+🎯 Always eager to learn more about **DevOps practices**, **data analysis**, and modern software architecture.  
 
 ---
 
@@ -21,7 +21,7 @@
 #### 🖥️ Languages & Frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -66,11 +66,11 @@
 
 ### 📫 Contact
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=5492604599261&text=Hello!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://aguppesce.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=grey" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5492604599261&text=Hello!!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://aguppesce.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=grey"></a>  
 </div>
 
 </details>
@@ -81,9 +81,9 @@
 <summary>🇪🇸 Español</summary>
 
 ### 👨‍💻 Sobre mí
-💡 Me apasiona la tecnología, la automatización y el desarrollo backend.  
+💡 Apasionado por la tecnología, la automatización y el desarrollo backend.  
 🚀 Actualmente enfocado en **Infraestructura Cloud** (AWS, Terraform, Docker, Kubernetes) y **Desarrollo Backend** (Java, Spring Boot, Python).  
-🎯 Me interesa seguir aprendiendo sobre **prácticas DevOps**, **análisis de datos** y mejorar constantemente mis habilidades de programación.  
+🎯 Siempre buscando aprender más sobre **prácticas DevOps**, **análisis de datos** y **arquitectura moderna de software**.  
 
 ---
 
@@ -92,7 +92,7 @@
 #### 🖥️ Lenguajes y Frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -137,11 +137,11 @@
 
 ### 📫 Contacto
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=5492604599261&text=¡Hola!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://aguppesce.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=grey" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5492604599261&text=¡Hola!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/agustin-perez-pesce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="mailto:aguppesce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://aguppesce.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=grey"></a>  
 </div>
 
 </details>
