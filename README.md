@@ -1,4 +1,4 @@
-<!-- Encabezado animado al estilo GitHub Pages -->
+<!-- Encabezado animado con estilo GitHub Pages -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Agustín+Pérez+Pesce;Cloud+%26+Cybersecurity+Enthusiast;Backend+Developer;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing Animation" />
 </div>
@@ -10,19 +10,19 @@
 ### 🚀 *Cloud · Ciberseguridad · Backend · Infraestructura*  
 Técnico orientado a Cloud & Security — apasionado por Linux, automatización y buenas prácticas DevSecOps.
 
----
-
 </div>
+
+---
 
 # 🌎 Choose your Language / Elige tu Idioma
 <details open>
 <summary>🇬🇧 English</summary>
 
 ## 👨‍💻 About Me
-- Passionate about **Cloud Infrastructure**, automation and backend development  
+- Passionate about **Cloud Infrastructure**, automation and secure backend development  
 - Focused on **AWS · Terraform · Docker · Kubernetes**  
 - Interested in **DevSecOps**, secure architectures and Linux systems  
-- Always learning and improving through hands-on labs and technical projects
+- Always learning through hands-on labs, projects and continuous improvement  
 
 ---
 
@@ -89,16 +89,16 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
 <summary>🇪🇸 Español</summary>
 
 ## 👨‍💻 Sobre mí
-- Apasionado por la **infraestructura Cloud**, automatización y backend  
+- Apasionado por la **infraestructura Cloud**, automatización y desarrollo backend  
 - Enfocado en **AWS · Terraform · Docker · Kubernetes**  
-- Interesado en **DevSecOps**, seguridad y arquitecturas modernas  
-- Siempre aprendiendo mediante laboratorios y proyectos personales
+- Interesado en **DevSecOps**, seguridad informática y arquitecturas modernas  
+- Siempre aprendiendo mediante laboratorios prácticos y proyectos personales  
 
 ---
 
 ## 🧰 Stack Tecnológico
 
-### 🖥️ Languages & Frameworks
+### 🖥️ Lenguajes & Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" />
@@ -108,7 +108,7 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
 </div>
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud e Infraestructura
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" />
@@ -117,13 +117,13 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-plain.svg" height="45" />
 </div>
 
-### 🗄️ Databases
+### 🗄️ Bases de Datos
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
 </div>
 
-### 🧠 Tools & IDEs
+### 🧠 Herramientas e IDEs
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
@@ -134,7 +134,7 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aguppesce&show_icons=true&theme=github_dark&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguppesce&layout=compact&theme=github_dark&langs_count=8" />
@@ -142,7 +142,7 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5492604599261" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/Agupsce" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -156,7 +156,7 @@ Técnico orientado a Cloud & Security — apasionado por Linux, automatización 
 ---
 
 <div align="center">
-  
+
 ### 🌱 *“Siempre aprendiendo, siempre construyendo.”*
 
 </div>
